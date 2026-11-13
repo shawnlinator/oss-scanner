@@ -1,0 +1,5 @@
+repo: https://github.com/shawnlinator/flint-walrus#mealie-next
+primary_contact: me@shawngubler.com
+homepage: https://github.com/shawnlinator/flint-walrus
+dockerfile: docker/Dockerfile
+threat_model: .oss-scanner/threat_model.md
