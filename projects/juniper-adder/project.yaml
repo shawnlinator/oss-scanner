@@ -1,0 +1,5 @@
+repo: https://github.com/shawnlinator/juniper-adder#main
+primary_contact: me@shawngubler.com
+homepage: https://github.com/shawnlinator/juniper-adder
+dockerfile: Dockerfile
+threat_model: .oss-scanner/threat_model.md
